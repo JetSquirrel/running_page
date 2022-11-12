@@ -2,13 +2,13 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://running.jetsuirrel.cloud',
+    siteUrl: 'https://running.jetsquirrel.cloud',
     logo: './src/images/logo.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Running',
-        url: 'https://running.jetsuirrel.cloud',
+        url: 'https://running.jetsquirrel.cloud',
       },
       {
         name: 'About',
